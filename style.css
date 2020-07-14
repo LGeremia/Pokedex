@@ -1,0 +1,12 @@
+.body{
+    background-color: #ddd;
+    justify-items: center;
+}
+#main{
+    text-align: center;
+    width: 100%;
+    padding: 0px 5%;
+}
+.card--image{
+    height: 200px;
+}
